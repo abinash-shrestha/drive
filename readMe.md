@@ -4,4 +4,7 @@
     - express
     - express-validator
     - dotenv
+    - bcryptjs 
+    - jsonwebtoken
+    - cookie-parser
 
